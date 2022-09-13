@@ -1,4 +1,3 @@
-[submodule "third_party/timm"]
-    ignore = dirty
-    path = models/pytorch-image-models
-    url = https://github.com/AntiAegis/pytorch-image-models
+[submodule "models/pytorch-image-models"]
+	path = models/pytorch-image-models
+	url = https://github.com/CyrusZhou-CN/pytorch-image-models.git
